@@ -1,0 +1,15 @@
+D:\DudinRepo\obj\Debug\net6.0\DudinRepo.csproj.AssemblyReference.cache
+D:\DudinRepo\obj\Debug\net6.0\DudinRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DudinRepo\obj\Debug\net6.0\DudinRepo.AssemblyInfoInputs.cache
+D:\DudinRepo\obj\Debug\net6.0\DudinRepo.AssemblyInfo.cs
+D:\DudinRepo\obj\Debug\net6.0\DudinRepo.csproj.CoreCompileInputs.cache
+D:\DudinRepo\bin\Debug\net6.0\DudinRepo.exe
+D:\DudinRepo\bin\Debug\net6.0\DudinRepo.deps.json
+D:\DudinRepo\bin\Debug\net6.0\DudinRepo.runtimeconfig.json
+D:\DudinRepo\bin\Debug\net6.0\DudinRepo.dll
+D:\DudinRepo\bin\Debug\net6.0\DudinRepo.pdb
+D:\DudinRepo\obj\Debug\net6.0\DudinRepo.dll
+D:\DudinRepo\obj\Debug\net6.0\refint\DudinRepo.dll
+D:\DudinRepo\obj\Debug\net6.0\DudinRepo.pdb
+D:\DudinRepo\obj\Debug\net6.0\DudinRepo.genruntimeconfig.cache
+D:\DudinRepo\obj\Debug\net6.0\ref\DudinRepo.dll
